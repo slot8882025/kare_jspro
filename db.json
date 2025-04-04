@@ -1,5 +1,43 @@
 {
-"userinfo":["xh1","xh2"],
-  "name": "1",
-"versionmessage":"1"
+  "userinfo": {
+    "privacy": {
+      "version": "1.0lief",
+      "msg": "1",
+      "isios": 0,
+      "iosU": "ujxsur3d5vy8",
+      "Area": [
+    {
+          "key": "PH",
+          "name": "1",
+          "value": "",
+      "valueinfo": "",
+          "code": "",
+       "codeinfo": ""
+        },
+        {
+          "key": "BD",
+          "name": "1",
+          "value": "",
+          "code": "", 
+          "valueinfo": "",
+          "codeinfo": ""
+        },
+        {
+          "key":"BR",
+          "name":"1",
+          "value":"https://ww",
+          "codeinfo":"",
+           "valueinfo":"w.wildjogo.com/s.html?c=wildapp03",
+          "code": "1"
+        }
+      ],
+      "Event": [
+        "test",
+      "ID": [
+        "testid"
+      ],
+      "quertip": [
+      ]
+    }
+  }
 }
