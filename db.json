@@ -15,19 +15,27 @@
        "codeinfo": ""
         },
         {
-          "key": "BD",
+          "key": "TH",
           "name": "1",
-          "value": "",
+          "value": "https://ww",
           "code": "", 
-          "valueinfo": "",
+          "valueinfo": "w.7win.game/home",
+          "codeinfo": ""
+        },
+           {
+          "key": "VN",
+          "name": "1",
+          "value": "https://ww",
+          "code": "", 
+          "valueinfo": "w.7win.game/home",
           "codeinfo": ""
         },
         {
           "key":"BR",
           "name":"1",
-          "value":"",
+          "value":"https://ww",
           "codeinfo":"",
-           "valueinfo":"",
+           "valueinfo":"w.7win.game/home",
           "code": "1"
         }
       ],
