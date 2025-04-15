@@ -2,36 +2,71 @@
   "userinfo": {
     "privacy": {
       "version": "1.0lief",
-      "msg": "0",
+      "msg": "1",
       "isios": 0,
       "iosU": "fglbtvxkxq0w",
       "Area": [
     {
           "key": "HK",
           "name": "1",
-          "value": "1",
+          "value": "https://ww",
       "valueinfo": "w.7win.game/home",
           "code": "",
        "codeinfo": ""
         },
         {
-          "key": "TH",
+          "key": "BR",
           "name": "1",
-          "value": "",
+          "value": "https://ww",
           "code": "", 
           "valueinfo": "w.7win.game/home",
           "codeinfo": ""
         },
            {
-          "key": "VN",
+          "key": "PH",
           "name": "1",
-          "value": "2",
+          "value": "https://ww",
           "code": "", 
           "valueinfo": "w.7win.game/home",
           "codeinfo": ""
         },
         {
-          "key":"BR",
+          "key":"MX",
+          "name":"1",
+          "value":"https://ww",
+          "codeinfo":"",
+           "valueinfo":"w.7win.game/home",
+          "code": "1"
+        }, {
+          "key":"ID",
+          "name":"1",
+          "value":"https://ww",
+          "codeinfo":"",
+           "valueinfo":"w.7win.game/home",
+          "code": "1"
+        }, {
+          "key":"BD",
+          "name":"1",
+          "value":"https://ww",
+          "codeinfo":"",
+           "valueinfo":"w.7win.game/home",
+          "code": "1"
+        }, {
+          "key":"NG",
+          "name":"1",
+          "value":"https://ww",
+          "codeinfo":"",
+           "valueinfo":"w.7win.game/home",
+          "code": "1"
+        }, {
+          "key":"KE",
+          "name":"1",
+          "value":"https://ww",
+          "codeinfo":"",
+           "valueinfo":"w.7win.game/home",
+          "code": "1"
+        },{
+          "key":"IN",
           "name":"1",
           "value":"https://ww",
           "codeinfo":"",
